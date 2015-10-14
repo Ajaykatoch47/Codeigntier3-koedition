@@ -17,6 +17,15 @@ PHP version 5.4 or newer is recommended.
 ************
 Installation
 ************
+- create "users" table in mySQL 
+
+open with text editor
+- application/config/database.php
+modify database settings
+
+Open Composer
+- cd c:/xampp/htdocs/project-file-name
+- composer install
 
 *********
 Resources
